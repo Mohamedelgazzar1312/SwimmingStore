@@ -26,4 +26,23 @@ and ASP.NET Core Identity. It provides a robust platform for managing products, 
 - **Email Service**: SendGrid
 - **Payment Processing**: Stripe
 
+![image](https://github.com/user-attachments/assets/894ce3e0-b095-4ab3-8b9d-e755c2fe1a65)
+![image](https://github.com/user-attachments/assets/72728bba-a975-4ea3-a2ef-d0113fbb79a0)
+![image](https://github.com/user-attachments/assets/f7808e79-6821-45b7-8a8e-966dcb6e7762)
+![image](https://github.com/user-attachments/assets/2eba308f-b20a-4688-8892-cd01965cbeb3)
+
+![image](https://github.com/user-attachments/assets/d7ea250a-bd8a-4cbf-a873-8fb0377e1b8e)
+![image](https://github.com/user-attachments/assets/fdf27ec0-ddef-4ed6-a093-b09e8449191b)
+
+
+
+
+
+
+
+
+
+
+
+
 
