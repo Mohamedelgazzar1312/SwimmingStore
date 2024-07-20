@@ -1,0 +1,12 @@
+F:\MVC project\Bulky_MVC-master\Bulky_MVC-master\Bulky.Utility\bin\Debug\net8.0\BulkyBook.Utility.deps.json
+F:\MVC project\Bulky_MVC-master\Bulky_MVC-master\Bulky.Utility\bin\Debug\net8.0\BulkyBook.Utility.dll
+F:\MVC project\Bulky_MVC-master\Bulky_MVC-master\Bulky.Utility\bin\Debug\net8.0\BulkyBook.Utility.pdb
+F:\MVC project\Bulky_MVC-master\Bulky_MVC-master\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.csproj.AssemblyReference.cache
+F:\MVC project\Bulky_MVC-master\Bulky_MVC-master\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.GeneratedMSBuildEditorConfig.editorconfig
+F:\MVC project\Bulky_MVC-master\Bulky_MVC-master\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.AssemblyInfoInputs.cache
+F:\MVC project\Bulky_MVC-master\Bulky_MVC-master\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.AssemblyInfo.cs
+F:\MVC project\Bulky_MVC-master\Bulky_MVC-master\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.csproj.CoreCompileInputs.cache
+F:\MVC project\Bulky_MVC-master\Bulky_MVC-master\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.dll
+F:\MVC project\Bulky_MVC-master\Bulky_MVC-master\Bulky.Utility\obj\Debug\net8.0\refint\BulkyBook.Utility.dll
+F:\MVC project\Bulky_MVC-master\Bulky_MVC-master\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.pdb
+F:\MVC project\Bulky_MVC-master\Bulky_MVC-master\Bulky.Utility\obj\Debug\net8.0\ref\BulkyBook.Utility.dll
