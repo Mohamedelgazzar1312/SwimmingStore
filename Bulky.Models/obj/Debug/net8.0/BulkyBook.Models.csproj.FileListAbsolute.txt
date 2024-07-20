@@ -1,0 +1,12 @@
+F:\MVC project\Bulky_MVC-master\Bulky_MVC-master\Bulky.Models\bin\Debug\net8.0\BulkyBook.Models.deps.json
+F:\MVC project\Bulky_MVC-master\Bulky_MVC-master\Bulky.Models\bin\Debug\net8.0\BulkyBook.Models.dll
+F:\MVC project\Bulky_MVC-master\Bulky_MVC-master\Bulky.Models\bin\Debug\net8.0\BulkyBook.Models.pdb
+F:\MVC project\Bulky_MVC-master\Bulky_MVC-master\Bulky.Models\obj\Debug\net8.0\BulkyBook.Models.csproj.AssemblyReference.cache
+F:\MVC project\Bulky_MVC-master\Bulky_MVC-master\Bulky.Models\obj\Debug\net8.0\BulkyBook.Models.GeneratedMSBuildEditorConfig.editorconfig
+F:\MVC project\Bulky_MVC-master\Bulky_MVC-master\Bulky.Models\obj\Debug\net8.0\BulkyBook.Models.AssemblyInfoInputs.cache
+F:\MVC project\Bulky_MVC-master\Bulky_MVC-master\Bulky.Models\obj\Debug\net8.0\BulkyBook.Models.AssemblyInfo.cs
+F:\MVC project\Bulky_MVC-master\Bulky_MVC-master\Bulky.Models\obj\Debug\net8.0\BulkyBook.Models.csproj.CoreCompileInputs.cache
+F:\MVC project\Bulky_MVC-master\Bulky_MVC-master\Bulky.Models\obj\Debug\net8.0\BulkyBook.Models.dll
+F:\MVC project\Bulky_MVC-master\Bulky_MVC-master\Bulky.Models\obj\Debug\net8.0\refint\BulkyBook.Models.dll
+F:\MVC project\Bulky_MVC-master\Bulky_MVC-master\Bulky.Models\obj\Debug\net8.0\BulkyBook.Models.pdb
+F:\MVC project\Bulky_MVC-master\Bulky_MVC-master\Bulky.Models\obj\Debug\net8.0\ref\BulkyBook.Models.dll
